@@ -20,7 +20,6 @@ defineProps({
 </template>
 
 
-
 <style scoped>
 .event-card {
   padding: 20px;
