@@ -6,7 +6,7 @@ defineProps({
   },
 })
 </script>
-
+ 
 <template>
   <RouterLink
     class="event-link"
@@ -18,6 +18,8 @@ defineProps({
     </div>
   </RouterLink>
 </template>
+
+
 
 <style scoped>
 .event-card {
